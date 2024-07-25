@@ -1,0 +1,21 @@
+{
+  "$schema": "node_modules/lerna/schemas/lerna-schema.json",
+  "npmClient": "yarn",
+  "packages": ["packages/*"],
+  "version": "independent",
+  "command": {
+    "version": {
+      "allowBranch": "main",
+      "message": "chore(release): publish",
+      "private": true,
+      "conventionalCommits": true,
+      "createRelease": "github",
+      "ignoreChanges": [
+        "**/*.stories.js",
+        "**/*.spec.js",
+        "**/*.test.js",
+        "**/*.md"
+      ]
+    }
+  }
+}
