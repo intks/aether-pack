@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/intks/aether-pack/compare/@intks/eslint-config@0.1.0...@intks/eslint-config@0.2.0) (2024-10-05)
+
+
+### Features
+
+* upgrade eslint ([dd02533](https://github.com/intks/aether-pack/commit/dd025338856aa6e92342289fd0349d62882a631c))
+
+
+
+
+
 # [0.1.0](https://github.com/intks/aether-pack/compare/@intks/eslint-config@0.0.7...@intks/eslint-config@0.1.0) (2024-10-05)
 
 ### Features
