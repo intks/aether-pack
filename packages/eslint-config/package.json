@@ -1,5 +1,5 @@
 {
-  "name": "@aether-pack/eslint-config",
+  "name": "@intks/eslint-config",
   "version": "0.0.5",
   "main": "index.js",
   "author": "alex.chen <shift1255@gmail.com>",
