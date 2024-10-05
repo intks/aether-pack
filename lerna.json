@@ -9,7 +9,6 @@
       "allowBranch": "main",
       "message": "chore(release): publish",
       "conventionalCommits": true,
-      "createRelease": "github",
       "ignoreChanges": [
         "**/*.stories.js",
         "**/*.spec.js",
