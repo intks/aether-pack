@@ -1,5 +1,5 @@
 {
-  "name": "@aether-pack/aether-pack",
+  "name": "aether-pack",
   "version": "0.0.1",
   "type": "module",
   "description": "Monorepo",
@@ -14,14 +14,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/intks/nerium-ui.git"
+    "url": "git+https://github.com/intks/aether-pack.git"
   },
   "author": "alex.chen <shift1255@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/intks/nerium-ui/issues"
+    "url": "https://github.com/intks/aether-pack/issues"
   },
-  "homepage": "https://github.com/intks/nerium-ui#readme",
+  "homepage": "https://github.com/intks/aether-pack#readme",
   "private": true,
   "workspaces": {
     "packages": [

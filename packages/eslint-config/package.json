@@ -17,13 +17,9 @@
     "@babel/eslint-parser": ">= 7",
     "eslint": ">= 8"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/intks/aether-pack.git",
-    "directory": "packages/eslint-config"
-  },
+  "repository": "https://github.com/intks/aether-pack",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@aether-pack:registry": "https://npm.pkg.github.com/aether-pack"
   },
   "files": [
     "index.js"
