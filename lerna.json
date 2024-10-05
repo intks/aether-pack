@@ -7,18 +7,6 @@
   "command": {
     "publish": {
       "registry": "https://registry.npmjs.org/"
-    },
-    "version": {
-      "allowBranch": "main",
-      "message": "chore(release): publish",
-      "conventionalCommits": true,
-      "createRelease": "github",
-      "ignoreChanges": [
-        "**/*.stories.js",
-        "**/*.spec.js",
-        "**/*.test.js",
-        "**/*.md"
-      ]
     }
   }
 }
