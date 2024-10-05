@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/intks/aether-pack/compare/@intks/eslint-config@0.4.0...@intks/eslint-config@0.5.0) (2024-10-05)
+
+
+### Features
+
+* remove airbnb ([002d236](https://github.com/intks/aether-pack/commit/002d236c39b902dd71744fc405ffde3cf523880e))
+
+
+
+
+
 # [0.4.0](https://github.com/intks/aether-pack/compare/@intks/eslint-config@0.3.0...@intks/eslint-config@0.4.0) (2024-10-05)
 
 
