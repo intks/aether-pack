@@ -11,6 +11,6 @@
     "directory": "packages/hooks"
   },
   "publishConfig": {
-    "access": "public"
+    "@intks:registry": "https://npm.pkg.github.com/intks"
   }
 }

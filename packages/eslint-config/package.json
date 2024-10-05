@@ -19,7 +19,7 @@
   },
   "repository": "https://github.com/intks/aether-pack",
   "publishConfig": {
-    "@aether-pack:registry": "https://npm.pkg.github.com/aether-pack"
+    "@intks:registry": "https://npm.pkg.github.com/intks"
   },
   "description": "[eslint shareable config](https://eslint.org/docs/developer-guide/shareable-configs)",
   "bugs": {
