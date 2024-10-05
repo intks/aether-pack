@@ -5,6 +5,9 @@
   "packages": ["packages/*"],
   "version": "independent",
   "command": {
+    "publish": {
+      "registry": "https://registry.npmjs.org/"
+    },
     "version": {
       "allowBranch": "main",
       "message": "chore(release): publish",
