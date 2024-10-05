@@ -1,6 +1,6 @@
 {
-  "name": "@nerium/eslint-config",
-  "version": "0.2.0",
+  "name": "@aether-pack/eslint-config",
+  "version": "0.0.1",
   "main": "index.js",
   "author": "alex.chen <shift1255@gmail.com>",
   "license": "MIT",
@@ -19,10 +19,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/intks/nerium-ui.git",
+    "url": "git+https://github.com/intks/aether-pack.git",
     "directory": "packages/eslint-config"
   },
   "publishConfig": {
     "access": "public"
+  },
+  "files": [
+    "index.js",
+    "eslintrc.js"
+  ],
+  "description": "[eslint shareable config](https://eslint.org/docs/developer-guide/shareable-configs)",
+  "bugs": {
+    "url": "https://github.com/intks/aether-pack/issues"
+  },
+  "homepage": "https://github.com/intks/aether-pack#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }

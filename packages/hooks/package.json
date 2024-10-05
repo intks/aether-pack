@@ -1,6 +1,15 @@
 {
-  "name": "@nerium/hooks",
-  "version": "1.0.0",
+  "name": "@aether-pack/hooks",
+  "version": "0.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "author": "alex.chen <shift1255@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/intks/aether-pack.git",
+    "directory": "packages/hooks"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
 }
