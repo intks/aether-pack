@@ -1,6 +1,6 @@
 {
   "name": "@aether-pack/eslint-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "author": "alex.chen <shift1255@gmail.com>",
   "license": "MIT",
@@ -26,8 +26,7 @@
     "access": "public"
   },
   "files": [
-    "index.js",
-    ".eslintrc.js"
+    "index.js"
   ],
   "description": "[eslint shareable config](https://eslint.org/docs/developer-guide/shareable-configs)",
   "bugs": {
