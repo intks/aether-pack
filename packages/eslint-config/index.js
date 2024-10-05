@@ -48,7 +48,7 @@ module.exports = {
     'import/no-unresolved': 'error',
 
     // React Compiler 規則
-    'eslint-plugin-react-compiler/react-compiler': 'warn',
+    'react-compiler/react-compiler': 'warn',
 
     // 其他通用規則
     'no-console': ['warn', { allow: ['warn', 'error'] }],
