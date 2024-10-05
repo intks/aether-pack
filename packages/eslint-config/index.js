@@ -8,7 +8,7 @@ module.exports = {
     es2021: true,
     node: true,
   },
-  plugins: ['airbnb', 'react', '@typescript-eslint', 'eslint-plugin-import', 'eslint-plugin-react-compiler', 'unused-imports'],
+  plugins: ['react', '@typescript-eslint', 'eslint-plugin-import', 'eslint-plugin-react-compiler', 'unused-imports'],
   parserOptions: {
     ecmaFeatures: {
       jsx: true,
