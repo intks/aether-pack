@@ -1,6 +1,6 @@
 {
   "name": "@aether-pack/eslint-config",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "index.js",
   "author": "alex.chen <shift1255@gmail.com>",
   "license": "MIT",
@@ -23,7 +23,7 @@
     "directory": "packages/eslint-config"
   },
   "publishConfig": {
-   "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "files": [
     "index.js"
