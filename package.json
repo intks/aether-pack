@@ -1,5 +1,5 @@
 {
-  "name": "aether-pack",
+  "name": "@aether-pack/aether-pack",
   "version": "0.0.1",
   "type": "module",
   "description": "Monorepo",
