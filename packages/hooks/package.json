@@ -4,6 +4,7 @@
   "main": "index.js",
   "author": "alex.chen <shift1255@gmail.com>",
   "license": "MIT",
+  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/intks/aether-pack.git",
