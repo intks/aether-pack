@@ -14,13 +14,13 @@ based on
 ## Usage
 
 ```sh
-yarn add -D eslint @nerium/eslint-config @babel/core @babel/eslint-parser
+yarn add -D eslint @aether-pack/eslint-config @babel/core @babel/eslint-parser
 ```
 
 create a `.eslintrc.js`
 
 ```js
 module.exports = {
-  extends: '@nerium',
+  extends: '@aether-pack',
 };
 ```
