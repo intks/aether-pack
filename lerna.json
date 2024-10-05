@@ -6,18 +6,6 @@
   "command": {
     "publish": {
       "registry": "https://npm.pkg.github.com/"
-    },
-    "version": {
-      "allowBranch": "main",
-      "message": "chore(release): publish",
-      "conventionalCommits": true,
-      "createRelease": "github",
-      "ignoreChanges": [
-        "**/*.stories.js",
-        "**/*.spec.js",
-        "**/*.test.js",
-        "**/*.md"
-      ]
     }
   }
 }

@@ -23,7 +23,7 @@
     "directory": "packages/eslint-config"
   },
   "publishConfig": {
-    "access": "public"
+   "registry": "https://npm.pkg.github.com"
   },
   "files": [
     "index.js"
