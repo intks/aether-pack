@@ -21,9 +21,6 @@
   "publishConfig": {
     "@aether-pack:registry": "https://npm.pkg.github.com/aether-pack"
   },
-  "files": [
-    "index.js"
-  ],
   "description": "[eslint shareable config](https://eslint.org/docs/developer-guide/shareable-configs)",
   "bugs": {
     "url": "https://github.com/intks/aether-pack/issues"
