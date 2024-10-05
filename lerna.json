@@ -7,7 +7,6 @@
     "version": {
       "allowBranch": "main",
       "message": "chore(release): publish",
-      "private": true,
       "conventionalCommits": true,
       "createRelease": "github",
       "ignoreChanges": [
